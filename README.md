@@ -4,6 +4,10 @@ Implementation of the dual-layer cognitive architecture described in the researc
 
 ## Architecture Overview
 
+The system architeture illustration is depicted below.
+
+<img width="3660" height="4200" alt="diagram (6)" src="https://github.com/user-attachments/assets/614cd6b6-c67a-4dac-8c7f-c6eaebf907fa" />
+
 The system consists of two main layers:
 
 1. **Core Reasoning Layer (C)**: Primary AI reasoning engine
